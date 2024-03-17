@@ -1,0 +1,49 @@
+[
+  {
+    "id": "Tah",
+    "libr": "المكتبة البلدية الطاهير وسط",
+    "code": "Ta",
+    "map": "https://maps.app.goo.gl/F4Dv8J8W4DLHRc6NA",
+    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/000/001-01.jpg",
+    "titl": "المدخل إلى مناهج البحث العلمي",
+    "nam": "محمد محمد قاسم",
+    "trans": "",
+    "pub": "دار المعرفة الجامعة الاسكندرية",
+    "date": "1998",
+    "num": "001/01",
+    "desc": "",
+    "inx1": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/1i001-01.jpg",
+    "inx2": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/2i001-01.jpg",
+    "inx3": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/3i001-01.jpg",
+    "inx4": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/4i001-01.jpg",
+    "inx5": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/5i001-01.jpg",
+    "categories": [
+      "all",
+      "ar",
+      "en",
+      "fr",
+      "000",
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ],
+    "libraries": [
+      "00",
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09"
+    ]
+  }
+]
